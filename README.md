@@ -30,7 +30,7 @@ View the current count of parked vehicles, categorized by type.
 Enter vehicle details for departure.
 The system calculates the parking charge based on the duration of stay.
 
-4.** Get Total Amount of Money Collected:**
+4. **Get Total Amount of Money Collected:**
 
 Display the total revenue generated from parking fees.
 
